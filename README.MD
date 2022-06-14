@@ -17,5 +17,5 @@ for i in range(len(ticker)):
       0
 
   
-  If you observe last ticker 'jafa' is not original stock ticker that's why it returns 0 value for remaining it returns CIK number.
+  If you observe last ticker 'jafa' is not original stock ticker that's why it returns 0.
   
