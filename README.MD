@@ -1,8 +1,8 @@
 If you want to access SEC EDGAR database to search any filings related to stcok symbol, you need CIK number.
   This module helps to search stock ticker corresponding CIK number for you.
     
-    example usage:
-
+    
+code:
 from secciksym_package import secciksym
 ticker = ['SOFI','docn','aapl','jafa']
 for i in range(len(ticker)):
