@@ -11,9 +11,9 @@ for i in range(len(ticker)):
       
       output:
 
-1818874
-1582961
-320193
+1818874 \n
+1582961  \n
+320193   \n
 0
   
   If you observe last ticker 'jafa' is not original stock ticker that's why it returns 0 value for remaining it returns CIK number.
