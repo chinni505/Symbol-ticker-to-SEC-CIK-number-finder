@@ -3,13 +3,13 @@ If you want to access SEC EDGAR database to search any filings related to stcok 
     
     
 python snippet:
-
+```python
 from secciksym_package import secciksym
 ticker = ['SOFI','docn','aapl','jafa']
 for i in range(len(ticker)):
     print(secciksym.SECCIKTICKER(ticker[i]))
       
-      
+  ```   
       output:
       1818874
       1582961
